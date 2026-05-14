@@ -89,11 +89,12 @@ A scalable backend system built using *ASP.NET Core Web API* to manage inventory
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/hassansamir-2004">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="
+www.linkedin.com/in/hassan-samir-b96691301">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
