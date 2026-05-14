@@ -41,6 +41,39 @@ Focused on creating clean, maintainable APIs using modern .NET technologies.
 ---
 
 ## 🌟 Featured Project
+#### Online Survey System
+
+A robust and scalable Survey Management System built with ASP.NET Core Web API following Clean Architecture principles.
+
+The system allows administrators to create and manage surveys dynamically, while users can participate in surveys and submit responses securely and efficiently.
+
+## Features
+
+* User Authentication & Authorization using JWT
+* Create, update, delete, and manage surveys
+* Dynamic questions and answer options
+* Submit and track survey responses
+* Role-based access control (Admin/User)
+* Clean Architecture implementation
+* Entity Framework Core with SQL Server
+* Input validation and error handling
+* RESTful API design
+* Swagger API documentation
+
+## Technologies Used
+
+* ASP.NET Core Web API
+* Entity Framework Core
+* SQL Server
+* JWT Authentication
+* Clean Architecture
+* AutoMapper
+* FluentValidation
+* Swagger
+
+## Project Goals
+
+The project was designed to practice building scalable backend systems with proper architecture, authentication, validation, and database design while following industry-level backend development practices.
 
 ### 📦 Inventory Management System (IMS)
 
@@ -53,6 +86,8 @@ A scalable backend system built using *ASP.NET Core Web API* to manage inventory
 * Supplier Management
 * Purchase & Sales Transactions
 * Stock Tracking
+* Applied Notifications
+* Hangfire and Background jobs
 * Low Stock Alerts
 * Reporting & Analytics
 * Clean RESTful API Architecture
@@ -94,7 +129,7 @@ A scalable backend system built using *ASP.NET Core Web API* to manage inventory
   </a>
 
   <a href="
-www.linkedin.com/in/hassan-samir-b96691301">
+/www.linkedin.com/in/hassan-samir-b96691301">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
