@@ -54,7 +54,9 @@ The system allows administrators to create and manage surveys dynamically, while
 * Dynamic questions and answer options
 * Submit and track survey responses
 * Role-based access control (Admin/User)
-* Clean Architecture implementation
+* Permission based Authantication
+* Applied Background Jobs & notifications
+* Applied Rate limiting 
 * Entity Framework Core with SQL Server
 * Input validation and error handling
 * RESTful API design
